@@ -7,4 +7,9 @@ This is a basic calculator program. We made this as part of an assignment for cl
 However, I made the program my own by adding support for square roots, percentages, and parentheses.
 This was done by adding a new row to the calculator and using the math module to evaluate square roots.
 
-Program 2: 
+Program 2: Factorial Calculator
+
+This program was originally an in-class assignment.
+Here, I've made a GUI for the program and also have included exception handling invalid inputs.
+
+
