@@ -12,4 +12,12 @@ Program 2: Factorial Calculator
 This program was originally an in-class assignment.
 Here, I've made a GUI for the program and also have included exception handling invalid inputs.
 
+Program 3: Grade Calculator
 
+Program 4: Painting Estimation
+
+Program 5: Rock Paper Scissors Game
+
+Program 6: Seating Calculator
+
+Program 7: Unit Converter
