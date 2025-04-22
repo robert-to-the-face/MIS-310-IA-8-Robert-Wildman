@@ -1,6 +1,10 @@
 # MIS-310-IA-8-Robert-Wildman
-These are the projects for MIS 310 I made in Spring 2025
+These are the projects for MIS 310 I made in Spring 2025.
 
-Program 1: Main project
+Program 1: Calculator
 
-This is the project we have worked on all semester. 
+This is a basic calculator program. We made this as part of an assignment for class. 
+However, I made the program my own by adding support for square roots, percentages, and parentheses.
+This was done by adding a new row to the calculator and using the math module to evaluate square roots.
+
+Program 2: 
