@@ -25,8 +25,16 @@ made to the original program.
 
 Program 5: Rock Paper Scissors Game
 
-This is the program I spent the most time on. It's a rock paper scicors game 
+This is the program I spent the most time on. It's a rock-paper-scissors game with a GUI.
+Originally, the program was all text-based, but the GUI was added by me, alongside a button and scoreboard
+that resets and keeps track of wins, respectively.
 
 Program 6: Seating Calculator
 
+This program calculates the total revenue earned for ticket sales of different classes of seats.
+The program did not have a GUI originally, so I added one.
+
 Program 7: Unit Converter
+
+This program converts the U.S. customary units of miles, gallons, and acres to their metric counterparts.
+The GUI was added by me as well as the unit conversions from gallons to liters and acres to hectacres. 
